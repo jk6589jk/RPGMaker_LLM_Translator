@@ -4,6 +4,8 @@
 </h1>
 </div>
 
+因为想加功能,用c#实现一遍
+
 # 介绍
 这是一个基于Mtool/Translator++和Sakura模型的RPGMaker游戏本地翻译器，能够提供高质量离线日文翻译  
 建议使用[Sakura-13B-Galgame翻译模型](https://github.com/SakuraLLM/Sakura-13B-Galgame)，当前支持版本为Sakura v0.8/v0.9/v0.10pre1/Galtransl-v2.6
